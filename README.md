@@ -14,7 +14,7 @@ Projeto realizado em aula no curso <strong>LaunchBase</strong> da <strong>Rocket
 - HTML5
 - CSS3
 - JavaScript
-- Node.js
+- Nunjucks
 </br></br>
 
 ### 💾 Banco de dados
